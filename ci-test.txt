@@ -1,1 +1,2 @@
 Throwaway file to test post-merge CI (#1404). Safe to delete.
+Second line: normal merge without a skip token.
